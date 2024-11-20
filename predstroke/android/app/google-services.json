@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "970464036115",
+    "project_id": "predstroke-sca",
+    "storage_bucket": "predstroke-sca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970464036115:android:5b2cf1aa7aa54d343546e6",
+        "android_client_info": {
+          "package_name": "com.example.predstroke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970464036115-96h3l40fs0os67sim5q3aitct6menpt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOaU24ziA5836HHRYomQhMZ14_3ODsEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970464036115-96h3l40fs0os67sim5q3aitct6menpt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970464036115-8il9ma8t0t0chu29o2shg585v8la609m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.predstroke"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
